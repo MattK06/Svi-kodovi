@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">12022024</string>
+    <string-array name="odabir_boja">
+        <item>-1</item>
+        <item>+1</item>
+        <item>+2</item>
+    </string-array>
+
+</resources>
